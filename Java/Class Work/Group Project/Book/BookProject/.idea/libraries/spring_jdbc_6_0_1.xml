@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="spring-jdbc-6.0.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/spring-jdbc-6.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="https://repo1.maven.org/maven2/org/springframework/spring-context/6.0.1/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

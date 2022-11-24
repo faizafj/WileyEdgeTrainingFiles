@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Cars/src/main/java"/>
+	<classpathentry kind="src" path="EggsTask/src/main/java"/>
+	<classpathentry kind="src" path="HeightCalculator/src/main/java"/>
+	<classpathentry kind="src" path="PeopleArray/src/main/java"/>
+	<classpathentry kind="src" path="reverseNumber/src/main/java"/>
+	<classpathentry kind="src" path="Vehicles/src/main/java"/>
+	<classpathentry kind="output" path="EggsTask/target/classes"/>
+</classpath>

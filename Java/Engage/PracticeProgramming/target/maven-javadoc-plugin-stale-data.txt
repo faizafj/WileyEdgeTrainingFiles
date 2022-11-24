@@ -1,0 +1,57 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'19'
+-sourcepath
+'/Users/faiza/Documents/Training Things/Lesson Files/git-commands-faizafj/PracticeProgramming/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/faiza/Documents/Training Things/Lesson Files/git-commands-faizafj/PracticeProgramming/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'PracticeProgramming 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'PracticeProgramming 1.0-SNAPSHOT API'
+com.sg.foundations.basics.core
+com.sg.foundations.flowcontrol.methods
+com.sg.foundations.flowcontrol.whiles
+com.sg.foundations.flowcontrol.ifs
+com.sg.foundations.flowcontrol.fors
+com.sg.foundations.flowcontrol.exercises
+com.sg.foundations.flowcontrol.arrays
+com.sg.foundations.flowcontrol.random
+com.sg.foundations.summative.assessments
+com.sg.foundations.variables
+com.sg.foundations.scanner
+com.faizaj.practiceprogramming
+/Users/faiza/Documents/Training Things/Lesson Files/git-commands-faizafj/PracticeProgramming/src/main/java = 1666127680200
+/Users/faiza/Documents/Training Things/Lesson Files/git-commands-faizafj/PracticeProgramming/target/site/apidocs/tag-search-index.js = 1666359080137
+/Users/faiza/Documents/Training Things/Lesson Files/git-commands-faizafj/PracticeProgramming/target/site/apidocs/overview-tree.html = 1666359080048
+/Users/faiza/Documents/Training Things/Lesson Files/git-commands-faizafj/PracticeProgramming/target/site/apidocs/module-search-index.js = 1666359080134
+/Users/faiza/Documents/Training Things/Lesson Files/git-commands-faizafj/PracticeProgramming/target/site/apidocs/index.html = 1666359080069
+/Users/faiza/Documents/Training Things/Lesson Files/git-commands-faizafj/PracticeProgramming/target/site/apidocs/package-search-index.js = 1666359080135
+/Users/faiza/Documents/Training Things/Lesson Files/git-commands-faizafj/PracticeProgramming/target/site/apidocs/jquery-ui.overrides.css = 1666359080289
+/Users/faiza/Documents/Training Things/Lesson Files/git-commands-faizafj/PracticeProgramming/target/site/apidocs/index-all.html = 1666359080252
+/Users/faiza/Documents/Training Things/Lesson Files/git-commands-faizafj/PracticeProgramming/target/site/apidocs/allpackages-index.html = 1666359080133
+/Users/faiza/Documents/Training Things/Lesson Files/git-commands-faizafj/PracticeProgramming/target/site/apidocs/member-search-index.js = 1666359080136
+/Users/faiza/Documents/Training Things/Lesson Files/git-commands-faizafj/PracticeProgramming/target/site/apidocs/copy.svg = 1666359080273
+/Users/faiza/Documents/Training Things/Lesson Files/git-commands-faizafj/PracticeProgramming/target/site/apidocs/script.js = 1666359080268
+/Users/faiza/Documents/Training Things/Lesson Files/git-commands-faizafj/PracticeProgramming/target/site/apidocs/stylesheet.css = 1666359080267
+/Users/faiza/Documents/Training Things/Lesson Files/git-commands-faizafj/PracticeProgramming/target/site/apidocs/search-page.js = 1666359080275
+/Users/faiza/Documents/Training Things/Lesson Files/git-commands-faizafj/PracticeProgramming/target/site/apidocs/overview-summary.html = 1666359080261
+/Users/faiza/Documents/Training Things/Lesson Files/git-commands-faizafj/PracticeProgramming/target/site/apidocs/help-doc.html = 1666359080265
+/Users/faiza/Documents/Training Things/Lesson Files/git-commands-faizafj/PracticeProgramming/target/site/apidocs/element-list = 1666359079712
+/Users/faiza/Documents/Training Things/Lesson Files/git-commands-faizafj/PracticeProgramming/target/site/apidocs/search.html = 1666359080258
+/Users/faiza/Documents/Training Things/Lesson Files/git-commands-faizafj/PracticeProgramming/target/site/apidocs/allclasses-index.html = 1666359080130
+/Users/faiza/Documents/Training Things/Lesson Files/git-commands-faizafj/PracticeProgramming/target/site/apidocs/type-search-index.js = 1666359080135
+/Users/faiza/Documents/Training Things/Lesson Files/git-commands-faizafj/PracticeProgramming/target/site/apidocs/search.js = 1666359080274

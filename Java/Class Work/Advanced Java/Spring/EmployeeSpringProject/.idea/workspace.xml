@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f7ea3cd6-b6e2-4221-a98f-29f86eee41d1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Advanced Java/ClassRoster/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Advanced Java/ClassRoster/src/main/java/com/sg/classroster/dao/ClassRosterDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EmployeeSpring/bin/com/sujata/client/EmployeeClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EmployeeSpring/bin/com/sujata/database/EmployeeDataBase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EmployeeSpring/bin/com/sujata/entity/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EmployeeSpring/bin/com/sujata/entity/EmployeePaySlip.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EmployeeSpring/bin/com/sujata/persistence/EmployeeDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EmployeeSpring/bin/com/sujata/persistence/EmployeeDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EmployeeSpring/bin/com/sujata/presentation/EmployeePresentation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EmployeeSpring/bin/com/sujata/presentation/EmployeePresentationImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EmployeeSpring/bin/com/sujata/service/EmployeeService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EmployeeSpring/bin/com/sujata/service/EmployeeServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EmployeeSpring/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EmployeeSpring/src/com/sujata/client/EmployeeClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EmployeeSpring/src/com/sujata/client/EmployeeConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EmployeeSpring/src/com/sujata/database/EmployeeDataBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EmployeeSpring/src/com/sujata/entity/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EmployeeSpring/src/com/sujata/entity/EmployeePaySlip.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EmployeeSpring/src/com/sujata/persistence/EmployeeDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EmployeeSpring/src/com/sujata/persistence/EmployeeDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EmployeeSpring/src/com/sujata/presentation/EmployeePresentation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EmployeeSpring/src/com/sujata/presentation/EmployeePresentationImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EmployeeSpring/src/com/sujata/service/EmployeeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EmployeeSpring/src/com/sujata/service/EmployeeServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Employees/src/client/EmployeeClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Employees/src/database/EmployeeDataBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Employees/src/entity/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Employees/src/entity/EmployeePaySlip.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Employees/src/persistence/EmployeeDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Employees/src/persistence/EmployeeDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Employees/src/presentation/EmployeePresentation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Employees/src/presentation/EmployeePresentationImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Employees/src/service/EmployeeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Employees/src/service/EmployeeServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hello.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hello.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HML7u3WATKnTnlrnJ1rRRY1PJh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/faiza/Documents/Training Things/Lesson Files/ClassLearning/EmployeeSpringProject",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f7ea3cd6-b6e2-4221-a98f-29f86eee41d1" name="Changes" comment="" />
+      <created>1668089843711</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668089843711</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
